@@ -1,84 +1,71 @@
-<h1 align="center" style="color:#0078ff;">👋 Hey, I'm <span style="color:#ff9800;">Arup Paul</span></h1>
+<h1 align="center" style="color:#fff; background:linear-gradient(to right, #ff512f, #dd2476); padding:15px; border-radius:12px;">
+  👋 Hey, I'm <b>Arup Paul</b>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C0FF&center=true&vCenter=true&width=600&lines=MCA+Student+%40+NIT+Raipur;Data+Science+%26+ML+Enthusiast;Generative+AI+Explorer;Full-Stack+ML+App+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7C70F&center=true&vCenter=true&width=600&lines=MCA+Student+@+NIT+Raipur;ML+%26+Generative+AI+Developer;Full-Stack+ML+App+Builder;Always+Learning+%26+Creating" />
 </p>
 
-<hr/>
-
-<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:15px;">
-  <h2>📍 Contact Info</h2>
-  <p>📍 Siliguri, West Bengal, India</p>
-  <p>📞 +91 73845 99719</p>
-  <p>📧 <a href="mailto:arup03.paul@gmail.com" style="color:#0078ff;">arup03.paul@gmail.com</a></p>
-  <p>🔗 
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN" style="color:#0e76a8;">LinkedIn</a> | 
-    <a href="https://github.com/Arup03NITRR" style="color:#333;">GitHub</a>
-  </p>
+<!-- Contact -->
+<div style="background:#f39c12; padding:15px; border-radius:12px; margin-bottom:10px;">
+<h2>📍 Contact Info</h2>
+<ul>
+  <li>📍 Siliguri, West Bengal, India</li>
+  <li>📞 +91 73845 99719</li>
+  <li>📧 <a href="mailto:arup03.paul@gmail.com" style="color:white;">arup03.paul@gmail.com</a></li>
+  <li>🔗 <a href="https://linkedin.com/in/YOUR-LINKEDIN" style="color:white;">LinkedIn</a> | 
+      <a href="https://github.com/Arup03NITRR" style="color:white;">GitHub</a> |
+      <a href="https://my-portfolio-mu-lovat-13.vercel.app/" style="color:white;">🌐 Portfolio</a></li>
+</ul>
 </div>
 
-<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:15px;">
-  <h2>🎓 Education</h2>
-  <ul>
-    <li><b>Master of Computer Applications (MCA)</b> – NIT Raipur <br/>CPI: 9.65 <i>(Aug 2023 – Present)</i></li>
-    <li><b>BSc in Computer Science</b> – Siliguri College, University of North Bengal <br/>CGPA: 9.26 <i>(Jul 2019 – Jun 2022)</i></li>
-  </ul>
+<!-- Skills -->
+<div style="background:#2980b9; color:white; padding:15px; border-radius:12px; margin-bottom:10px;">
+<h2>💻 Technical Skills</h2>
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 </div>
 
-<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:15px;">
-  <h2>💻 Technical Skills</h2>
-  <ul>
-    <li><b>Languages:</b> Python, C/C++, SQL, MySQL, MongoDB</li>
-    <li><b>ML/DL:</b> Machine Learning, Deep Learning, GenAI, TensorFlow, Scikit-learn</li>
-    <li><b>Data:</b> NumPy, Pandas, Matplotlib, EDA, Data Cleaning</li>
-    <li><b>Generative AI:</b> LangChain, LangGraph, RAG, Agentic AI</li>
-    <li><b>App Dev:</b> Streamlit, FastAPI, React.js</li>
-    <li><b>Version Control:</b> Git, GitHub</li>
-  </ul>
+<!-- Certifications -->
+<div style="background:#8e44ad; color:white; padding:15px; border-radius:12px; margin-bottom:10px;">
+<h2>📜 Certifications</h2>
+<ul>
+  <li>🏅 Complete Generative AI Course With LangChain & Huggingface – Udemy (Aug 2025)</li>
+  <li>🏅 Deep Learning A-Z 2025 – Udemy (Jul 2025)</li>
+</ul>
 </div>
 
-<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:15px;">
-  <h2>📜 Certifications</h2>
-  <ul>
-    <li>🏅 Complete Generative AI Course With LangChain & Huggingface – Udemy (Aug 2025)</li>
-    <li>🏅 Deep Learning A-Z 2025 – Udemy (Jul 2025)</li>
-  </ul>
+<!-- Extracurricular -->
+<div style="background:#16a085; color:white; padding:15px; border-radius:12px; margin-bottom:10px;">
+<h2>🎭 Extracurricular</h2>
+<p>🎸 Guitarist & Cultural Volunteer at ICAIHC-2025 Conference, IEEE & NIT Raipur</p>
 </div>
 
-<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:15px;">
-  <h2>🛠 Projects</h2>
-  <ul>
-    <li><b>TalkDocs</b> – AI PDF Assistant using RAG (Python, Streamlit, LangChain)</li>
-    <li><b>RasoiMate</b> – AI Recipe Generator (LangChain, React.js, FastAPI, MongoDB)</li>
-    <li><b>MedAI</b> – Disease Prediction Tool (ML, Streamlit, FPDF)</li>
-  </ul>
+<!-- Achievements -->
+<div style="background:#d35400; color:white; padding:15px; border-radius:12px; margin-bottom:10px;">
+<h2>🏆 Achievements</h2>
+<ul>
+  <li>🥉 3rd place – Tricoder Tournament 2024, Codeutsava 8.0</li>
+  <li>🥇 Top Performer – 30 Days Coding Challenge 2024, TCP NIT Raipur</li>
+  <li>🥉 3rd place – Poster Contest “Portrait of India @ 2047”</li>
+  <li>🔹 9th rank – Tricoder Tournament 2023, Codeutsava 7.0</li>
+  <li>🎯 AIR 490 – NIMCET 2023</li>
+</ul>
 </div>
 
-<div style="border:1px solid #ddd; border-radius:10px; padding:15px; margin-bottom:15px;">
-  <h2>🎭 Extracurricular</h2>
-  <p>🎸 Guitarist & Cultural Volunteer at ICAIHC-2025 Conference, IEEE & NIT Raipur</p>
-</div>
-
-<div style="border:1px solid #ddd; border-radius:10px; padding:15px;">
-  <h2>🏆 Achievements</h2>
-  <ul>
-    <li>🥉 3rd place – Tricoder Tournament 2024, Codeutsava 8.0, NIT Raipur</li>
-    <li>🥇 Top Performer – 30 Days Coding Challenge 2024, TCP NIT Raipur</li>
-    <li>🥉 3rd place – Poster Contest “Portrait of India @ 2047”, NIT Raipur</li>
-    <li>🔹 9th rank – Tricoder Tournament 2023, Codeutsava 7.0, NIT Raipur</li>
-    <li>🎯 AIR 490 – NIMCET 2023</li>
-  </ul>
-</div>
-
-<hr/>
-
+<!-- GitHub Stats -->
+<div style="background:#34495e; color:white; padding:15px; border-radius:12px;">
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arup03NITRR&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arup03NITRR&theme=tokyonight" height="165" />
 </p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Arup03NITRR"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:arup03.paul@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
